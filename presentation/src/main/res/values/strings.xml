@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Challenge</string>
+
+    <string name="hero_not_found">Hero not found!</string>
+</resources>
